@@ -6,6 +6,6 @@ use Geraldo\CepDigital\Search;
 
   $get = new Search();
 
-  $res = $get->getAddress('55750000');
+  $res = $get->getAddress('55870000');
 
   print_r($res);
